@@ -29,6 +29,8 @@ FUTURE CHANGES:
 
 I would like to add proper error handling(to prevent a situation where the user is being thrown out of the system without an explanation).
 And of course some DB abstraction.
+Some animation(floating dots while loging-in).
+And of course, most off all, a good password salting system, using a decent crypting algoryithm.
 
 IMPORTANT REMARK:
 
